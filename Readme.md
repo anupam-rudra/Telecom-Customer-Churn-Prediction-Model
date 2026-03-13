@@ -27,15 +27,15 @@ Target variable:
 
 Churn (Yes / No)
 
-# Project Workflow
+# Project Workflow -Churn_Prediction.ipynb
 ## Data Preprocessing
 ## Exploratory Data Analysis (EDA)
-## Machine Learning Models(Churn_Prediction.ipynb)
+## Machine Learning Models
 ## Model Evaluation
 ## Feature Importance
 
 
-# Details about dataset 
+# Details about dataset-Telco Customer-Churn-csv
 The dataset named Telco Customer-Churn-csv is used.
 Each row represents a customer, each column contains the customer's attributes. 
 This dataset contains 21 columns (variables) and 7043 rows (customers) 
